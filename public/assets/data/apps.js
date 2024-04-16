@@ -80,7 +80,7 @@ var apps = [
     {
       'id': 'movie-web',
       'title': 'movie-web',
-      'url': 'http://movie-web.app/',
+      'url': 'http://movie-web.us/',
       'image': 'https://github.com/movie-web/movie-web/blob/dev/public/android-chrome-512x512.png?raw=true'
     },
     {
