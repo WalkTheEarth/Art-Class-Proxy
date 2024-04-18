@@ -56,7 +56,7 @@ var apps = [
     {
       "id": "youtube",
       "title": "YouTube",
-      "url": "https://youtube.com",
+      "url": "https://m.youtube.com",
       'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/2048px-YouTube_social_red_square_%282017%29.svg.png'
     },
     {
