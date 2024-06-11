@@ -62,3 +62,6 @@ var arcScript = document.createElement("script")
 arcScript.src = 'https://arc.io/widget.min.js#mBnG5tq6'
 arcScript.async = true
 document.head.appendChild(arcScript)
+
+// Ads
+Console.log("lmao imagine putting porn ads into this website. nothin like artclass.site :skull:")
