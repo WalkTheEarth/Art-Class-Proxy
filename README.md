@@ -1,3 +1,7 @@
+--- THIS IS NOT FOR DAILY USE ---
+i might repair this qwq
+
+
 <div align="center">
   <img src="public/assets/images/icon.png" />
   <h1>Art Class v4</h1>
