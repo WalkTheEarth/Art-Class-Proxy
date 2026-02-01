@@ -14,6 +14,7 @@
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "latest",
     "@tomphttp/bare-server-node": "latest",
+    "@vercel/analytics": "latest",
     "express": "latest"
   },
   "devDependencies": {
