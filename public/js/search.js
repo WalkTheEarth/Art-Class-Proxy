@@ -42,5 +42,5 @@ function search(input, template) {
 
   // Attempts to convert the input to a fully qualified URL have failed
   // Treat the input as a search query
-  return `https://duckduckgo.com/?q=${encodeURIComponent(input)}`
+  return `hhttps://www.startpage.com/sp/search?query=${encodeURIComponent(input)}`
 }
