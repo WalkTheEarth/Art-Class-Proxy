@@ -4,20 +4,20 @@
   "description": "More than just a game site",
   "type": "module",
   "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=16.0.0"
+    "npm": "latest",
+    "node": "latest"
   },
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
-    "@tomphttp/bare-server-node": "^2.0.2",
-    "express": "^4.22.1"
+    "@titaniumnetwork-dev/ultraviolet": "latest",
+    "@tomphttp/bare-server-node": "latest",
+    "express": "latest"
   },
   "devDependencies": {
-    "eslint": "^8.36.0",
-    "prettier": "^2.8.4"
+    "eslint": "latest",
+    "prettier": "latest"
   }
 }
